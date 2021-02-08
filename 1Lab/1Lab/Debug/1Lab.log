@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\6Sem\AVP\1Lab\1Lab\main.cpp(34,36): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\6Sem\AVP\1Lab\1Lab\main.cpp(40,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  1Lab.vcxproj -> C:\6Sem\AVP\1Lab\Debug\1Lab.exe
